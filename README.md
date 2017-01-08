@@ -1,0 +1,9 @@
+# This is my VUE-PlayGround
+
+- watch out ES6 Expected indentation like button `TAB`
+
+## Vue-Router-Demo
+
+just use vue-router more info see
+
+[Vue-Router](/Vue-Router-Demo/README.md)

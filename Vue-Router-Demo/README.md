@@ -4,6 +4,13 @@
 
 ## Build Setup
 
+```sh
+# base use
+npm install vue-router vue-resource vuex --save
+# use pug
+npm i pug stylus stylus-loader -D
+```
+
 ``` bash
 # install dependencies
 npm install
