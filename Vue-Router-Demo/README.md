@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-## Build Setup
+## Before Build
 
 ```sh
 # base use
@@ -10,6 +10,8 @@ npm install vue-router vue-resource vuex --save
 # use pug
 npm i pug stylus stylus-loader -D
 ```
+
+## Build Setup
 
 ``` bash
 # install dependencies
