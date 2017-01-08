@@ -6,4 +6,4 @@
 
 just use vue-router more info see
 
-[Vue-Router](/Vue-Router-Demo/README.md)
+[Vue-Router](/Vue2-Router-Demo/README.md)
