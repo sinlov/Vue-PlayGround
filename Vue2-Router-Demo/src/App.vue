@@ -7,6 +7,7 @@
       //- to属性就是链接的地址啦
       router-link(to="/") home
       router-link(to="/article") article
+      router-link(to="/pager") pager
     bodyer
       //- 路由地址所对应的模板将会被挂载到router-view标签上
       router-view
